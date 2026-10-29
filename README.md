@@ -4,13 +4,21 @@ Este repositorio solo contiene los paquetes de instalación y actualización de 
 
 ## Instalar (usuario final)
 
-1. Descarga el instalador más reciente:
+**Opcion 1 - un solo archivo (recomendado):**
 
-   **https://github.com/joshualeba/Sylpack-Tickets-Updates/releases/latest/download/SylpackTickets_Instalador.zip**
+Descarga y ejecuta:
 
-2. Descomprime el `.zip` completo (no abras nada desde dentro del `.zip`).
-3. Abre `SylpackTickets_Instalador.exe`.
-4. Elige **Sede** o **Equipo cliente** y espera a que termine.
+https://github.com/joshualeba/Sylpack-Tickets/releases/latest/download/SylpackTickets_Instalar.exe
+
+Descarga el instalador completo desde GitHub y lo ejecuta automaticamente.
+
+**Opcion 2 - paquete completo (sin internet en el equipo destino):**
+
+https://github.com/joshualeba/Sylpack-Tickets-Updates/releases/latest/download/SylpackTickets_Instalador.zip
+
+Descomprime la carpeta completa y abre `SylpackTickets_Instalador.exe`. Elige **Sede** o **Equipo cliente**.
+
+No hay tokens, cuentas ni configuracion de GitHub.
 
 No hay tokens, cuentas ni configuración de GitHub. La app queda lista para usarse.
 

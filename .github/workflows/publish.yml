@@ -21,7 +21,7 @@ jobs:
           TAG: ${{ github.ref_name }}
         run: |
           set -euo pipefail
-          files="SylpackTickets_App.zip SylpackTickets_Instalador.zip checksums.txt latest.json"
+          files="SylpackTickets_App.zip SylpackTickets_Instalador.zip SylpackTickets_Instalar.exe checksums.txt latest.json"
           if gh release view "$TAG" >/dev/null 2>&1; then
             gh release upload "$TAG" $files --clobber
             gh release edit "$TAG" --title "Sylpack Tickets $TAG" --notes-file RELEASE_NOTES.md

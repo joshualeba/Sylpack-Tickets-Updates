@@ -3,18 +3,18 @@
   "tag": "v1.0",
   "name": "Sylpack Tickets v1.0",
   "notes": "Paquete de actualizacion de Sylpack Tickets.\r\n\r\n- `SylpackTickets_App.zip`: lo usa el boton **Actualizaciones** dentro de la app.\r\n- `SylpackTickets_Instalador.zip`: instalacion desde cero.\r\n- `SylpackTickets_Instalar.exe`: instalador directo (descarga el paquete desde GitHub).\r\n- `checksums.txt`: verificacion SHA256.\r\n\r\nSylpack - Departamento de Sistemas",
-  "published_at": "2026-10-29T04:17:16Z",
+  "published_at": "2026-10-29T13:40:18Z",
   "repo": "joshualeba/Sylpack-Tickets-Updates",
   "app": {
     "name": "SylpackTickets_App.zip",
-    "size": 21958356,
-    "sha256": "aef2243d290c647abc8836699c67f5419c9e4d22d1ad8540206ae6b4cd083351",
+    "size": 21958266,
+    "sha256": "99d27c917f9f4214edfa7410974dfbaaf7559e8e45f92f392c2ac03d53e79dec",
     "url": "https://github.com/joshualeba/Sylpack-Tickets-Updates/releases/download/v1.0/SylpackTickets_App.zip"
   },
   "installer": {
     "name": "SylpackTickets_Instalador.zip",
-    "size": 38141137,
-    "sha256": "890480a86e02a8fd85de804a502c98a7cfc25b6cb88d1653ba81c17f87d0ae80",
+    "size": 38140817,
+    "sha256": "5fe98cec0054e8b955fe36b2c31d79aa9541a9c10479e5107e67e3b08eae4eb5",
     "url": "https://github.com/joshualeba/Sylpack-Tickets-Updates/releases/download/v1.0/SylpackTickets_Instalador.zip"
   }
 }

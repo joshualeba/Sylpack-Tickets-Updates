@@ -1,0 +1,20 @@
+{
+  "version": "1.0",
+  "tag": "v1.0",
+  "name": "Sylpack Tickets v1.0",
+  "notes": "Paquete de actualización de Sylpack Tickets.\r\n\r\n- `SylpackTickets_App.zip`: lo usa el botón **Actualizaciones** dentro de la app.\r\n- `SylpackTickets_Instalador.zip`: instalación desde cero.\r\n- `checksums.txt`: verificación SHA256.\r\n\r\nSylpack - Departamento de Sistemas",
+  "published_at": "2026-10-29T03:20:10Z",
+  "repo": "joshualeba/Sylpack-Tickets-Updates",
+  "app": {
+    "name": "SylpackTickets_App.zip",
+    "size": 21958406,
+    "sha256": "19493e3baef7df781ff32aeb704d4aa963459ff01b7837c3f60824008170022d",
+    "url": "https://github.com/joshualeba/Sylpack-Tickets-Updates/releases/download/v1.0/SylpackTickets_App.zip"
+  },
+  "installer": {
+    "name": "SylpackTickets_Instalador.zip",
+    "size": 38140969,
+    "sha256": "77d10197e235e640ca09a845902158138517b56170dee462e4284faf9c205d52",
+    "url": "https://github.com/joshualeba/Sylpack-Tickets-Updates/releases/download/v1.0/SylpackTickets_Instalador.zip"
+  }
+}
